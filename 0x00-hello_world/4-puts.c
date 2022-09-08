@@ -1,25 +1,11 @@
-/*
- * File: 4-puts.c
- *
- *
- */
-
 #include <stdio.h>
-
 /*
- * main - Prints "Programming is like building a multilingual
- * puzzle, followed by a new line.
- *
- * Return: Always 0.
+ * main - prints out a string via puts
+ * Description: program that prints out the string s followed by a new line
+ * Retun: 0 when done, with no errors
  */
-
 int main(void)
-	/*
-	 * main prints progremming language
-	 */
-
 {
-puts("\"Programming is like building a multilingual puzzle");
-
-return (0);
+	puts("\"programming is like building a multilingual puzzle");
+	retun (0);
 }

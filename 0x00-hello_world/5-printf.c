@@ -1,5 +1,10 @@
 #include <stdio.h>
 
+/**
+ * main - prints out a main via printf
+ * Description: 'with proper grammar, but the outcome is a piece of art'
+ * Return: Always 0 (Success)
+ */
 
 int main(void)
 {

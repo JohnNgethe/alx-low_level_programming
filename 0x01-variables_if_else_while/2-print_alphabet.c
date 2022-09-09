@@ -1,4 +1,4 @@
-#include <sdio.h>
+#include <stdio.h>
 /**
  * main - returns alphabets letter
  * Description: 'program that prints the alphabet in lowercase,'

@@ -1,8 +1,10 @@
 #include "main.h"
+
 /**
  * _puts_recursion -Prints a string follwed by a new line
  * @s: String to be printed
  */
+
 void  _puts_recursion(char *s)
 {
 	if (*s)
